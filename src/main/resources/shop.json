@@ -1,0 +1,14 @@
+[
+  {
+    "id":1,
+    "name":"potion",
+    "price":300,
+    "property":"add 20 hp"
+  },
+  {
+    "id":2,
+    "name":"pokeball",
+    "price":200,
+    "property":"capture a pokemon"
+  }
+]
