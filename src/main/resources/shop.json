@@ -12,5 +12,12 @@
     "price":200,
     "property":"capture a pokemon",
     "sprite":"https://image.flaticon.com/icons/svg/188/188918.svg"
+  },
+  {
+    "id":3,
+    "name":"super potion",
+    "price":400,
+    "property":"add 50 hp",
+    "sprite":"https://image.flaticon.com/icons/svg/188/188959.svg"
   }
 ]
