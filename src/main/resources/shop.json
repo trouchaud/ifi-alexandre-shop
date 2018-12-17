@@ -3,21 +3,28 @@
     "id":1,
     "name":"potion",
     "price":300,
-    "property":"add 20 hp",
+    "property":"Add 20 hp",
     "sprite": "https://image.flaticon.com/icons/svg/188/188958.svg"
   },
   {
     "id":2,
     "name":"pokeball",
     "price":200,
-    "property":"capture a pokemon",
+    "property":"Capture a pokemon",
     "sprite":"https://image.flaticon.com/icons/svg/188/188918.svg"
   },
   {
     "id":3,
     "name":"super potion",
     "price":400,
-    "property":"add 50 hp",
+    "property":"Add 50 hp",
     "sprite":"https://image.flaticon.com/icons/svg/188/188959.svg"
+  },
+  {
+    "id":4,
+    "name":"super potion",
+    "price":5000,
+    "property":"Relive and Heal all your pokemon",
+    "sprite":"https://image.flaticon.com/icons/svg/188/188985.svg"
   }
 ]
